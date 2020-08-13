@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\ZadacaTest\ZadacaTest\bin\Debug\netcoreapp3.0\ZadacaTest.exe
+C:\Users\Acer\source\repos\ZadacaTest\ZadacaTest\bin\Debug\netcoreapp3.0\ZadacaTest.deps.json
+C:\Users\Acer\source\repos\ZadacaTest\ZadacaTest\bin\Debug\netcoreapp3.0\ZadacaTest.runtimeconfig.json
+C:\Users\Acer\source\repos\ZadacaTest\ZadacaTest\bin\Debug\netcoreapp3.0\ZadacaTest.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\ZadacaTest\ZadacaTest\bin\Debug\netcoreapp3.0\ZadacaTest.dll
+C:\Users\Acer\source\repos\ZadacaTest\ZadacaTest\bin\Debug\netcoreapp3.0\ZadacaTest.pdb
+C:\Users\Acer\source\repos\ZadacaTest\ZadacaTest\obj\Debug\netcoreapp3.0\ZadacaTest.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\ZadacaTest\ZadacaTest\obj\Debug\netcoreapp3.0\ZadacaTest.AssemblyInfo.cs
+C:\Users\Acer\source\repos\ZadacaTest\ZadacaTest\obj\Debug\netcoreapp3.0\ZadacaTest.dll
+C:\Users\Acer\source\repos\ZadacaTest\ZadacaTest\obj\Debug\netcoreapp3.0\ZadacaTest.pdb
+C:\Users\Acer\source\repos\ZadacaTest\ZadacaTest\obj\Debug\netcoreapp3.0\ZadacaTest.csprojAssemblyReference.cache
